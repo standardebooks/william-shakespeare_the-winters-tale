@@ -150,4 +150,9 @@ p span.i2{
 	padding-left: 3em;
 	text-indent: -1em;
 }
+
+p span.i3{
+	padding-left: 4em;
+	text-indent: -1em;
+}
 /* End poem, song, verse */
