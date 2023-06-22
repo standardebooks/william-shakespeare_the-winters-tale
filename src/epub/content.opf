@@ -46,9 +46,10 @@
 		<meta property="se:subject">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A king’s unfounded jealousy destroys his family and kingdom.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description&lt;/p&gt;
+			&lt;p&gt;King Leontes of Sicilia accuses his wife, Queen Hermione, of infidelity with his childhood friend, King Polixenes of Bohemia. Consumed by irrational jealousy, Leontes becomes obsessed with proving Hermione’s supposed adultery and orders her imprisonment. Despite her pleas of innocence, Leontes remains stubborn in his belief and proceeds to put Hermione on trial, where she steadfastly maintains her innocence.&lt;/p&gt;
+			&lt;p&gt;Leontes’ baseless accusations lead to the destruction of his family: Hermione dies of grief, her newborn daughter is abandoned in a distant land, and her son, Mamillius, dies due to the distress caused by his father’s madness. Leontes’ abandoned daughter, Perdita, grows up as a shepherdess, unaware of her royal heritage. Sixteen years later, she returns to Sicilia.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
