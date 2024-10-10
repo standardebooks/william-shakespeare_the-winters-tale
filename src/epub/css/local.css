@@ -110,7 +110,13 @@ tr.together td + td{
 /* End dialog */
 
 /* Song, verse */
-[epub|type~="z3998:song"] p,
+td[epub|type~="z3998:song"] p,
+div[epub|type~="z3998:song"]{
+	margin: 1em 2.5em;
+	text-align: initial;
+	text-indent: 0;
+}
+
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
